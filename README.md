@@ -1,2 +1,2 @@
 # Aprendizado-de-Maquina
-Projetos desenvolvidos na disciplina de aprendizado de máquina 1 e 2. 
+Projetos desenvolvidos nas disciplinas de aprendizado de máquina 1 e 2. 
